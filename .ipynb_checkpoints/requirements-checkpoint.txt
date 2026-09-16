@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn==1.7.2
+matplotlib
+seaborn
+lightgbm
+xgboost
+catboost
+imbalanced-learn
+shap
+scikit-optimize
